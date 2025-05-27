@@ -1,0 +1,30 @@
+class AppImage{
+  static String item1 ='assets/images/item 1.jpeg';
+  static String love ='assets/images/heart.png';
+  static String card ='assets/images/card (1).png';
+  static String home ='assets/images/home.png';
+  static String cart ='assets/images/cart.png';
+  static String search ='assets/images/search.png';
+  static String setting ='assets/images/settings.png';
+  static String causal ='assets/images/casual dress.png';
+  static String formal ='assets/images/formal dress.png';
+  static String party ='assets/images/party dress.png';
+  static String star ='assets/images/star.png';
+  static String starOne ='assets/images/star one.png';
+  static String add ='assets/images/add (1).png';
+  static String muns ='assets/images/minus.png';
+  static String heartBlack ='assets/images/heart_black.png';
+  static String addCard ='assets/images/add_card.png';
+  static String addDote ='assets/images/add_dote.png';
+  static String mDote ='assets/images/m_dote.png';
+  static String aDote ='assets/images/a_dote.png';
+  static String mmDote ='assets/images/mm_dote.png';
+  static String delete ='assets/images/delete.png';
+  static String bkashLogo ='assets/images/BKash.png';
+  static String dutchBangla ='assets/images/dutchbangla.png';
+  static String flipcart ='assets/images/flipcart.png';
+  static String masterCard ='assets/images/mastercart.png';
+  static String nagadLogo ='assets/images/nagad.png';
+  static String paypalLogo ='assets/images/paypal.png';
+  static String visaCard ='assets/images/visacard.png';
+}
