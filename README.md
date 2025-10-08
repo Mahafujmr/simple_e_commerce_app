@@ -1,4 +1,4 @@
-# api_project_one
+# Simple E-Commerce App
 
 A new Flutter project.
 
